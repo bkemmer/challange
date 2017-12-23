@@ -1,0 +1,78 @@
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+[Stage 0:>                                                         (0 + 8) / 12]
+Formato inválido na linha: "alyssa.p"
+[Stage 0:====>                                                     (1 + 8) / 12][Stage 0:==============>                                           (3 + 8) / 12][Stage 0:======================================>                   (8 + 4) / 12][Stage 0:===========================================>              (9 + 3) / 12][Stage 1:>                                                         (0 + 8) / 12][Stage 1:=========>                                                (2 + 8) / 12][Stage 1:===================>                                      (4 + 8) / 12][Stage 1:======================================>                   (8 + 4) / 12][Stage 1:===============================================>         (10 + 2) / 12]                                                                                
+1) Número total de hosts únicos foram: 137978
+
+2) Número total de erros 404 no período foram: 20901
+
+3) Os 5 URLs que mais causaram erros 404 foram:
+
+hoohoo.ncsa.uiuc.edu: 251 requisições
+piweba3y.prodigy.com: 157 requisições
+jbiagioni.npt.nuwc.navy.mil: 132 requisições
+piweba1y.prodigy.com: 114 requisições
+www-d4.proxy.aol.com: 91 requisições
+
+4) A quantidade de erros 404 por dia foi:
+
+(08/Jul/1995,302)
+(15/Jul/1995,254)
+(26/Jul/1995,336)
+(06/Aug/1995,373)
+(24/Aug/1995,420)
+(30/Aug/1995,571)
+(03/Jul/1995,474)
+(01/Aug/1995,243)
+(28/Jul/1995,94)
+(08/Aug/1995,391)
+(17/Jul/1995,406)
+(26/Aug/1995,366)
+(16/Jul/1995,257)
+(25/Aug/1995,415)
+(27/Jul/1995,336)
+(07/Aug/1995,537)
+(10/Jul/1995,398)
+(12/Aug/1995,196)
+(21/Jul/1995,334)
+(13/Jul/1995,532)
+(06/Jul/1995,640)
+(04/Aug/1995,346)
+(15/Aug/1995,327)
+(24/Jul/1995,328)
+(22/Aug/1995,288)
+(10/Aug/1995,315)
+(01/Jul/1995,316)
+(09/Jul/1995,348)
+(18/Aug/1995,256)
+(29/Aug/1995,420)
+(18/Jul/1995,465)
+(09/Aug/1995,279)
+(27/Aug/1995,370)
+(16/Aug/1995,259)
+(23/Jul/1995,233)
+(03/Aug/1995,304)
+(05/Jul/1995,497)
+(21/Aug/1995,305)
+(12/Jul/1995,471)
+(28/Aug/1995,410)
+(17/Aug/1995,271)
+(19/Jul/1995,639)
+(31/Aug/1995,526)
+(20/Aug/1995,312)
+(22/Jul/1995,192)
+(11/Jul/1995,471)
+(13/Aug/1995,216)
+(04/Jul/1995,359)
+(07/Jul/1995,570)
+(23/Aug/1995,345)
+(05/Aug/1995,236)
+(25/Jul/1995,461)
+(14/Jul/1995,413)
+(14/Aug/1995,287)
+(11/Aug/1995,263)
+(20/Jul/1995,428)
+(02/Jul/1995,291)
+(19/Aug/1995,209)
+[Stage 10:====>                                                    (1 + 8) / 12]                                                                                
+5) O total de bytes retornados foi de: 65524314915 bytes.
