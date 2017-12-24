@@ -2,7 +2,7 @@
 
 
 ## Códigos
-part1.scala -> códigos implementados para responder as primeiras 5 questões\n
+part1.scala -> códigos implementados para responder as primeiras 5 questões
 
 part2.scala -> códigos implementados para o desafio de "Centralidade de Proximidade"
 
